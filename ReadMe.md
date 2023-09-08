@@ -2,7 +2,7 @@
 ## Platform and Engine
  - **Platform :** Android
  - **Engine :** Unity 2021.3.18f1
- - **Playable :** [Click me!](https://github.com/RubyGameStudioAssignments/assignment01-yagizayer/releases/tag/v0.1)
+ - **Playable :** [Click me!](https://github.com/yagizayer/RubyGames_CaseStudy/releases/tag/V0.1)
 
 > Important Note : To properly open and play the game, please launch the "Base" Scene located at *Assets/Root/Scenes/Base.unity*.
 > The levels are dynamically loaded and unloaded at the beginning of runtime.
