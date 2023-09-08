@@ -6,6 +6,8 @@
 
 > Important Note : To properly open and play the game, please launch the "Base" Scene located at *Assets/Root/Scenes/Base.unity*.
 > The levels are dynamically loaded and unloaded at the beginning of runtime.
+## What was the Assignment?
+Ruby Games provided a list of mechanics and requested that I create a unique game incorporating at least two mechanics from that list. I chose the *Stacking* and *Merge* mechanics.
 
 ## What is this game?
 This is a basic game created over a weekend as part of a case study provided by **Ruby Games**.
